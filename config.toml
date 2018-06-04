@@ -56,14 +56,14 @@ theme = "airspace-hugo"
 
   [params.slider]
     enable = true
-    title = "Little Wing, LLC"
-    subtitle = "We love the Web and the work we do.<br/>We work closely with our clients to deliver the best possible solutions for their needs"
+    title = "Get Your Wings"
+    subtitle = "新しいテクノロジーで新しいビジネスを<br/>"
 
   [params.wrapper]
     enable = true
     title = "About us"
     italic = "2017年に創業した合同会社リトルウイングは，研究開発コンサルティング，スタートアップ企業の技術アドバイザー，分散ストレージ/コンピューティングの独自技術開発などを行っています．"
-    paragraph = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id"
+    paragraph = "合同会社リトルウィングは、研究開発による課題解決・事業化支援・コンサルティングを行ゔ会社です。コンピュータサイエンス領域の技術は日々発展しており、新しい技術を生み出すための研究開発は様々な 領域で必要ですが、事業につながる研究開発をどのように行っていくかはビジネスと研 究両方の知見が必要になり非常に難しい時代になっています。弊社はそれらについて、 これまでの経験を生かしてご支援させていただきたいと考えています。"
 
   [params.blog]
     enable = true
@@ -80,8 +80,8 @@ theme = "airspace-hugo"
 
   [params.call]
     enable = true
-    title = "We design delightful digital experiences."
-    paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+    title = "合同会社リトルウイング （Little Wing, LLC)"
+    paragraph = "コンピュータサイエンス領域における研究開発プロジェクトのマネジメント・コンサルティング, AI等の先端技術を活用したスタートアップ企業の技術経営支援, 分散コンピューティング/データベース/ストレージなどの先端技術開発等を提供します．"
 
   [params.contact]
     enable = true
