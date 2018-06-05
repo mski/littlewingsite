@@ -57,7 +57,7 @@ theme = "airspace-hugo"
   [params.slider]
     enable = true
     title = "Get Your Wings"
-    subtitle = "新しいテクノロジーで新しいビジネスを<br/>"
+    subtitle = "<br/>"
 
   [params.wrapper]
     enable = true
@@ -76,7 +76,7 @@ theme = "airspace-hugo"
     content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
     [params.feature.button]
       caption = "View Works"
-      url = "#"
+      url = "/work/"
 
   [params.call]
     enable = true
@@ -85,18 +85,18 @@ theme = "airspace-hugo"
 
   [params.contact]
     enable = true
-    title = "Drop us a note"
-    subtitle = "Don’t just take our word for it. Check out some of our latest work."
-    [params.contact.form]
-      name = "Your name"
-      email = "Your email"
-      subject = "Your subject"
-      message = "Your message"
-      button = "Send message"
+    title = "About Little Wing, LLC"
+    subtitle = ""
+#    [params.contact.form]
+#      name = "Your name"
+#      email = "Your email"
+#      subject = "Your subject"
+#      message = "Your message"
+#      button = "Send message"
     [params.contact.box]
-      title = "Stop by for a visit"
+      title = "Company Outline"
       address = "Kawasaki, Kanagawa, Japan"
       email = "Email: kan@lwing.tech"
       phone = "Phone:"
     [params.contact.gmaps]
-      title = "We Also Count in Google Maps"
+      title = "Office Location"

@@ -1,45 +1,28 @@
 enable: true
 title: Our Services
 subtitle: >
-  Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics
+  先端コンピュータサイエンス技術，ベンチャー企業経営の知見を生かしたサービスを展開しています．
 content:
 
   - icon: ion-coffee
-    name: Branding
+    name: Software Research & Development
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      分散コンピューティング，分散ストレージ，データベースシステムの独自技術の研究開発に取り組むことが可能です．
+      また，次世代不揮発性メモリーやラックスケールアーキテクチャのようなハードウェアやコンピュータアーキテクチャについても取り組んでいます．
+
 
   - icon: ion-compass
-    name: Web Design
+    name: Research Project Management
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      事業化を考慮した自然言語処理や機械学習を活用した人工知能技術や，
+      コンピューティングPF技術の研究開発プロジェクトマネジメントを行っています．
 
   - icon: ion-image
-    name: App Design
+    name: Technical Adviser
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      経営と技術を繋ぐ立場での技術アドバイザー
 
   - icon: ion-bug
-    name: Start Up
+    name: Technology-based Business Development
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-
-  - icon: ion-headphone
-    name: Logo Design
-    text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-
-  - icon: ion-leaf
-    name: Development
-    text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-
-  - icon: ion-planet
-    name: Brand Identity
-    text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-
-  - icon: ion-earth
-    name: Brand Identity
-    text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      先端技術を活かした新規事業開発支援を行っております．
