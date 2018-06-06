@@ -1,4 +1,4 @@
-baseURL = "http://lwing.tech/"
+baseURL = "https://www.lwing.tech/"
 languageCode = "ja"
 title = "Little Wing, LLC"
 theme = "airspace-hugo"
@@ -57,7 +57,7 @@ theme = "airspace-hugo"
   [params.slider]
     enable = true
     title = "Get Your Wings"
-    subtitle = "<br/>"
+    subtitle = "ビジネスを創造/加速するための先端技術の力をあなたに<br/>"
 
   [params.wrapper]
     enable = true
