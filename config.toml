@@ -28,20 +28,25 @@ theme = "airspace-hugo"
     url = "#"
   [[menu.footer]]
     weight = 2
-    name = "Contact us"
-    url = "#"
+    name = "Work"
+    url = "/work"
   [[menu.footer]]
     weight = 3
-    name = "How it works"
-    url = "#"
+    name = "Blog"
+    url = "/blog"
   [[menu.footer]]
     weight = 4
-    name = "Blog"
-    url = "#"
+    name = "Service"
+    url = "/service"
   [[menu.footer]]
     weight = 5
-    name = "Terms"
-    url = "#"
+    name = "Contact us"
+    url = "/contact"
+
+#  [[menu.footer]]
+#    weight = 5
+#    name = "Terms"
+#    url = "#"
 
 # The site's parameters
 [params]

@@ -14,13 +14,13 @@ content:
   - icon: ion-compass
     name: Research Project Management
     text: >
-      事業化を考慮した自然言語処理や機械学習を活用した人工知能技術や，
-      コンピューティングPF技術の研究開発プロジェクトマネジメントを行っています．
+      事業化を考慮した研究開発プロジェクトマネジメントを行っております．
+      自然言語処理や機械学習を活用した人工知能技術や，コンピューティングPF技術，分散ストレージシステム技術等を扱っております．
 
   - icon: ion-image
     name: Technical Adviser
     text: >
-      経営と技術を繋ぐ立場での技術アドバイザー
+      経営と技術を繋ぐ立場での技術アドバイザーを行っております．
 
   - icon: ion-bug
     name: Technology-based Business Development
