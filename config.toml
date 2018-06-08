@@ -72,15 +72,15 @@ theme = "airspace-hugo"
 
   [params.blog]
     enable = true
-    title = "Get The Latest On What We're doing"
-    subtitle = "Catch up with us, anytime and anywhere"
+    title = "news"
+    subtitle = "弊社の活動についてご紹介いたします"
 
   [params.feature]
     enable = true
-    title = "We believe in great ideas"
-    content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+    title = "Work"
+    content = "約13年の間，日本のコンピュータメーカーの研究所で研究開発職に取り組んできた経験を活かして，各種研究開発プロジェクトの御支援や研究開発の一部を担当しております．"
     [params.feature.button]
-      caption = "View Works"
+      caption = "これまでの実積"
       url = "/work/"
 
   [params.call]
