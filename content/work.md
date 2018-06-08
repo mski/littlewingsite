@@ -1,3 +1,7 @@
+---
+title: "Works"
+draft: true
+---
 
 ## Works
 
@@ -17,9 +21,9 @@
 
 ### スタートアップ企業の技術アドバイザー
 
-とあるスタートアップ企業において，経営陣の技術サポートとしてエンジニア採用や，技術方針策定支援
+とあるスタートアップ企業において，経営陣の技術サポートとしてエンジニア採用や，技術方針策定支援を行っております．
 
 ## 論文発表リスト
 
 * [DBLP](http://dblp.uni-trier.de/pers/hd/k/Kan:Masaki)
-* [GoogleScholar]
+* [GoogleScholar](https://scholar.google.co.jp/citations?user=cH_wFv8AAAAJ&hl=ja)

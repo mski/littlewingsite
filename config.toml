@@ -2,6 +2,7 @@ baseURL = "https://www.lwing.tech/"
 languageCode = "ja"
 title = "Little Wing, LLC"
 theme = "airspace-hugo"
+hasCJKLanguage = true
 
 [menu]
 
