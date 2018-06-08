@@ -1,9 +1,21 @@
 {{ partial "global-header.html" .Site.Params.contact }}
 
+
 <!-- contact form start -->
+
+
+<section>
+  <div class="container">
+    <table class="table">
+      {{ .Content}}
+    </div>
+  </div>
+</section>
+
 {{ with .Site.Params.contact }}
 <section id="contact-form">
   <div class="container">
+
     <!-->
     <div class="row">
       <div class="col-md-6 col-sm-12">
@@ -41,14 +53,28 @@
           <h2>{{ .box.title }}</h2>
           <ul class="address-block">
             <li>
-              <i class="fa fa-map-marker"></i>{{ .box.address }}
+              社名：{{.box.name}}
+            </li>
+            <li>
+              代表: {{.box.daihyo}}
+            </li>
+            <li>
+              <!--
+              <i class="fa fa-map-marker"></i>
+               </!-->
+              所在地: {{ .box.address }}
+            </li>
+            <li>
+              設立年月日: {{.box.date}}
             </li>
             <li>
               <i class="fa fa-envelope-o"></i>{{ .box.email }}
             </li>
+            <!--
             <li>
               <i class="fa fa-phone"></i>{{ .box.phone }}
             </li>
+          -->
           </ul>
           <ul class="social-icons">
           {{ range .social }}

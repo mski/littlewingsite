@@ -22,10 +22,10 @@ theme = "airspace-hugo"
     name = "Contact"
     url = "/contact"
 
-  [[menu.footer]]
-    weight = 1
-    name = "About us"
-    url = "#"
+#  [[menu.footer]]
+#    weight = 1
+#    name = "About us"
+#    url = "#"
   [[menu.footer]]
     weight = 2
     name = "Work"
@@ -40,7 +40,7 @@ theme = "airspace-hugo"
     url = "/service"
   [[menu.footer]]
     weight = 5
-    name = "Contact us"
+    name = "About us"
     url = "/contact"
 
 #  [[menu.footer]]
@@ -84,14 +84,14 @@ theme = "airspace-hugo"
       url = "/work/"
 
   [params.call]
-    enable = true
+    enable = false
     title = "合同会社リトルウイング （Little Wing, LLC)"
     paragraph = "コンピュータサイエンス領域における研究開発プロジェクトのマネジメント・コンサルティング, AI等の先端技術を活用したスタートアップ企業の技術経営支援, 分散コンピューティング/データベース/ストレージなどの先端技術開発等を提供します．"
 
   [params.contact]
     enable = true
     title = "About Little Wing, LLC"
-    subtitle = ""
+    subtitle = "2017年に創業した合同会社リトルウイングは，研究開発コンサルティング，スタートアップ企業の技術アドバイザー，分散ストレージ/コンピューティングの独自技術開発などを行っています．"
 #    [params.contact.form]
 #      name = "Your name"
 #      email = "Your email"
@@ -100,8 +100,10 @@ theme = "airspace-hugo"
 #      button = "Send message"
     [params.contact.box]
       title = "Company Outline"
-      address = "Kawasaki, Kanagawa, Japan"
+      name = "合同会社リトルウイング(Little Wing, LLC)"
+      daihyo = "菅　真樹 (Masaki Kan)"
+      address = "神奈川県川崎市 (Kawasaki, Kanagawa)"
+      date = "2017年2月7日"
       email = "Email: kan@lwing.tech"
-      phone = "Phone:"
     [params.contact.gmaps]
       title = "Office Location"
