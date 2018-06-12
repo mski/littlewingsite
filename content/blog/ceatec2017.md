@@ -1,7 +1,7 @@
 ---
 title: "CEATEC JAPAN 2017の展示に協力いたしました"
 date: 2017-10-06T16:09:28+09:00
-draft: true
+draft: false
 ---
 
 ## CEATEC JAPAN 2017の展示に協力いたしました
